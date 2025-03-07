@@ -1,0 +1,8 @@
+Hi 
+
+Open vs code and copy the code and clone
+cd frontend , npm run serve
+in a new terminal cd backend , node --watch index.js
+
+
+Enjoy our project:)
